@@ -1,1 +1,1 @@
-# blackjack-app
+# social-media-app
